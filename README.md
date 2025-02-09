@@ -22,7 +22,7 @@
 - 🎯 Goal-oriented developer focused on creating efficient, scalable applications
 - ⚡ Fun fact: [Add your interesting fact here!]
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology 
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
