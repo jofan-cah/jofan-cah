@@ -67,9 +67,9 @@
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out to me through:
 
-- 💼 [LinkedIn](https://linkedin.com/in/jofan)
+- 💼 [LinkedIn]([https://linkedin.com/in/jofan](https://www.linkedin.com/in/jofan-fathurahman-47b084213/))
 - 🌐 [Portfolio](https://jofan.my.id)
-- 📧 [Email](mailto:your.email@domain.com) <!-- Add your email if you want to be contacted -->
+- 📧 [Email](mailto:fathurahmanjofan@gmail.com) <!-- Add your email if you want to be contacted -->
 
 ---
 
