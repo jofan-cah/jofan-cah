@@ -20,7 +20,6 @@
 - 💡 Enthusiast in exploring new tech stacks and building innovative solutions
 - 🌱 Currently diving deep into system architecture and cloud computing
 - 🎯 Goal-oriented developer focused on creating efficient, scalable applications
-- ⚡ Fun fact: [Add your interesting fact here!]
 
 ## 🛠️ Technology 
 
